@@ -3,10 +3,8 @@ Angularjs2 use Node.js
 
 need node.js
 
-npm install
+run npm install
 
-npm start
-
-demo
+run npm start
 
 <a href="http://localhost:3000/" target="_blank">http://localhost:3000/</a>
