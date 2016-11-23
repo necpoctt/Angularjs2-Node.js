@@ -2,7 +2,11 @@
 Angularjs2 use Node.js
 
 need node.js
+
 npm install
+
 npm start
+
 then see demo
-<a href="http://localhost:3000/" target="_blank">Demo</a>
+
+<a href="http://localhost:3000/" target="_blank">http://localhost:3000/</a>
