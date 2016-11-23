@@ -7,6 +7,6 @@ npm install
 
 npm start
 
-then see demo
+demo
 
 <a href="http://localhost:3000/" target="_blank">http://localhost:3000/</a>
