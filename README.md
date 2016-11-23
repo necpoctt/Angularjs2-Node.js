@@ -1,5 +1,4 @@
 # Angularjs2-Node.js
-Angularjs2 use Node.js
 
 need node.js
 
